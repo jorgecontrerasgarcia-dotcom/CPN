@@ -253,6 +253,7 @@
     {
       "cell_type": "code",
       "source": [
+        "#ejercicio 2\n",
         "ventas = [\n",
         "    {\"fecha\": \"2026-06-01\", \"producto\": \"Pan Batido (1kg)\", \"cantidad\": 3, \"precio\": 1990},\n",
         "    {\"fecha\": \"2026-06-01\", \"producto\": \"Leche Entera (1L)\", \"cantidad\": 2, \"precio\": 1150},\n",
@@ -383,7 +384,7 @@
     {
       "cell_type": "code",
       "source": [
-        "\n",
+        "#ejercicio 4\n",
         "\n",
         "ventas = [\n",
         "    {\"fecha\": \"2026-06-01\", \"producto\": \"Pan Batido (1kg)\", \"cantidad\": 3, \"precio\": 1990},\n",
@@ -510,7 +511,7 @@
     {
       "cell_type": "code",
       "source": [
-        "\n",
+        "#EJercicio 5\n",
         "ingresos_por_dia = {}\n",
         "\n",
         "for venta in ventas:\n",
@@ -555,6 +556,7 @@
     {
       "cell_type": "code",
       "source": [
+        "#ejercicio 6\n",
         "resumen_ventas = {}\n",
         "\n",
         "for producto, datos in precios_por_producto.items():\n",
